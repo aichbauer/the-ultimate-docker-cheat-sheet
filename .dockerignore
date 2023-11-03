@@ -1,0 +1,5 @@
+dist
+build
+node_modules
+./src/server/data/messages.json
+./messages.json
