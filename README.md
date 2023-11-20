@@ -8,7 +8,7 @@
 
 > Learn Docker
 
-The content of this repository can guide you to learn to use Docker. Here is the accompanying blog article: [The Ultimate Docker Cheat Sheet](https://devopscycle.com/blog/the-ultimate-docker-cheat-sheet) with the [PDF](https://devopscycle.com/wp-content/uploads/sites/4/2023/11/the-ultimate-docker-cheat-sheet.pdf) or an [image](https://devopscycle.com/wp-content/uploads/sites/4/2023/11/the-ultimate-docker-cheat-sheet-3.png) to the Docker Cheat Sheet. This repository is intended for corporate trainings, university courses and all people (mainly developers and system administrators, but also QA, security experts) that are interested into learning DevOps and especially in automating their processes and tasks to improve the iteration speed, the quality of their work output, and the overall transparancy in their company.
+The content of this repository can guide you to learn to use Docker. Here is the accompanying blog article: [The Ultimate Docker Cheat Sheet](https://devopscycle.com/blog/the-ultimate-docker-cheat-sheet) with the [PDF](https://devopscycle.com/wp-content/uploads/sites/4/2023/11/the-ultimate-docker-cheat-sheet-1.pdf) or an [image](https://devopscycle.com/wp-content/uploads/sites/4/2023/11/the-ultimate-docker-cheat-sheet-4.png) to the Docker Cheat Sheet. This repository is intended for corporate trainings, university courses and all people (mainly developers and system administrators, but also QA, security experts) that are interested into learning DevOps and especially in automating their processes and tasks to improve the iteration speed, the quality of their work output, and the overall transparancy in their company.
 
 ## Why?
 
