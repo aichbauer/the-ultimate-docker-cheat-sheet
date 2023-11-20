@@ -6,6 +6,9 @@
 # to reduce image size
 FROM node:18-alpine
 
+# we update the package list so that we always install
+# the latest version of a package
+RUN apk update && apk upgrade --no-cache
 # we install tini to have a proper init process
 # see: https://github.com/krallin/tini
 # this is needed to properly handle signals
